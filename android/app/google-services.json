@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219223955510",
+    "firebase_url": "https://affable-gist-291915.firebaseio.com",
+    "project_id": "affable-gist-291915",
+    "storage_bucket": "affable-gist-291915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219223955510:android:f49cfec81c3f8d1f052097",
+        "android_client_info": {
+          "package_name": "com.example.flutterapptest123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219223955510-12th789esforqpv3flggm6p2tfe82uqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3d1kIZGxIkcJzF9PKUa7LCESmuswNLyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219223955510-12th789esforqpv3flggm6p2tfe82uqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
